@@ -9,17 +9,23 @@ Users can be **Admin** or **Student**.
 
 ### 1. Clone the repo
 
-`git clone https://github.com/your-username/school-user-data-app.git
+```
+git clone https://github.com/your-username/school-user-data-app.git
 
-cd school-user-data-app`
+cd school-user-data-app
+```
 
 ### 2. Install dependencies
 
-`npm install`
+```
+npm install
+```
 
 ### 3. Run the app
 
-`npm run dev`
+```
+npm run dev
+```
 
 
 **The app will start on**: http://localhost:3001/
